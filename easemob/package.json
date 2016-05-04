@@ -17,14 +17,9 @@
   },
   "main": "app.js",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kelvin-Lin-16/easemob.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kelvin-Lin-16/easemob/issues"
-  },
-  "homepage": "https://github.com/Kelvin-Lin-16/easemob#readme",
   "description": ""
 }
